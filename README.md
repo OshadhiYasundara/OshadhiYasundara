@@ -1,12 +1,17 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
+/>
 
 <img
   src="https://t3.ftcdn.net/jpg/07/44/44/14/360_F_744441417_iaaK4CpxgzNZOBkU5HtchMhCKJSNSCDf.jpg"
   alt="Profile Image"
 />
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm Oshadhi Yasundara</h1>
-<h3 align="center" style="font-family: 'Poppins', sans-serif;">
+<h1 align="center" style="font-family: 'Poppins', sans-serif">
+  Hi 👋, I'm Oshadhi Yasundara
+</h1>
+<h3 align="center" style="font-family: 'Poppins', sans-serif">
   An undergraduate student from University of Moratuwa currently reading for a
   Bsc IT(Hons) Degree.
 </h3>
@@ -19,7 +24,9 @@
 
 - 📫 How to reach me oshadhiyasundara4@gmail.com
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif;">Connect with me:</h3>
+<h3 align="left" style="font-family: 'Poppins', sans-serif">
+  Connect with me:
+</h3>
 <p align="left">
   <a href="https://linkedin.com/in/oshadhi yasundara" target="blank"
     ><img
@@ -39,7 +46,9 @@
   /></a>
 </p>
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif;">Languages and Tools:</h3>
+<h3 align="left" style="font-family: 'Poppins', sans-serif">
+  Languages and Tools:
+</h3>
 <p align="left">
   <!-- Frontend Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
